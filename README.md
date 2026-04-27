@@ -1,4 +1,4 @@
-# Day 6: LLM Fundamentals & Prompt Engineering
+# LLM Fundamentals & Prompt Engineering
 
 ## Objective
 This repository contains the implementation for Week 2, Day 6 tasks focusing on Large Language Model (LLM) fundamentals and prompt engineering basics[cite: 1, 2, 5]. The goal is to explore how different prompt structures influence the output of an LLM.
